@@ -26,9 +26,7 @@
 <!-------------------------------------  CONTENIDO  ----------------------------------------->
 <!------home------>
     @yield('index')
-    @yield('proyectos')
-    @yield('frase')
-    @yield('eventos')
+    
 
 <!------login------>
     @yield('login')
